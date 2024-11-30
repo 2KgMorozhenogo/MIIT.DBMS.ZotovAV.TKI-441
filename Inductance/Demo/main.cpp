@@ -1,6 +1,6 @@
 ﻿#include <iostream>
 #include "../Domain/Inductance.h"
-
+#include "../Domain/Inductance.cpp"
 int main()
 {
     setlocale(LC_ALL, "Russian");
